@@ -1,2 +1,2 @@
-# SysTask_
- gerenciadto de tarefassem banco de dados php
+# SySTask_
+Gerenciador de tarefas sem banco de dados no PHP
